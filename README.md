@@ -7,3 +7,5 @@ Advanced Robbery Shop script for arma 3!
 class robstore {};
 # Add this for NPC
 this addAction["Rob Gas Station",life_fnc_robstore,"store"];
+# Also there Video 
+https://youtu.be/kG5LsBELtGg
